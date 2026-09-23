@@ -213,4 +213,4 @@ Samplitude is offered as a full free version with all features and updates inclu
 Unlock your musical potential today with **Samplitude**. Download now and start creating!
 
 ---
-**Last updated:** 2026-09-22 22:31:32 UTC
+**Last updated:** 2026-09-23 01:03:26 UTC
